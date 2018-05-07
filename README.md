@@ -1,12 +1,12 @@
 # DeepQLearning
-This is a project by team *Invictus* for a course on Advanced Machine Learning.
-### Overview
+This is a project by team **Invictus** for a course on Advanced Machine Learning.
+### **Overview**
 We aimed to successfully learn control policies directly from high dimensional sensory input using reinforcement learning. The model is a convolutional neural network, trained with a variant of Q-learning, whose input is raw pixels and whose output is a value function estimating future rewards.
-### Related files
+### **Related files**
 * train.py
 * testrun.py
 
-### Descriptions of the project files
+### **Descriptions of the project files**
 #### train.py
 Implementation of DQN and it's training. 
 #### testrun.py
